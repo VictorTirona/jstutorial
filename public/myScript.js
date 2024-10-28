@@ -33,3 +33,5 @@ function logMe(){
 function printMe(){
     window.print()
 }
+
+console.log('is this working? I think it is')
